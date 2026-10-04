@@ -1,6 +1,6 @@
 Hash Cracking Lab
 
-This repository documents hands-on practical exercises using John the Ripper by CodePath.org to audit, analyze, and recover cryptographic password hashes. The objective of this project is to explore common defensive pitfalls—such as weak dictionary words, predictable mangling rules, and strict structural masks—by successfully identifying and cracking 9 distinct account credentials across three target scopes.
+This repository documents hands-on practical exercises using John the Ripper to audit, analyze, and recover cryptographic password hashes. The objective of this project is to explore common defensive pitfalls—such as weak dictionary words, predictable mangling rules, and strict structural masks—by successfully identifying and cracking 9 distinct account credentials across three target scopes.
 
 🌟 Executive Summary: Recovered Credentials
 Scope / Target File	Account Username	Recovered Plaintext Password	Attack Methodology Employed
